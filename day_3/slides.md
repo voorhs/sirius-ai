@@ -338,9 +338,7 @@ https://lena-voita.github.io/nlp_course/word_embeddings.html#analysis_interpreta
 
 # Трансформеры
 
-- механизм самовнимания
-- BERT
-- GPT
+![center width:700](figures/bert-gpt.png)
 
 ---
 
