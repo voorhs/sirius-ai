@@ -3,9 +3,13 @@
 Смена в сириусе 2024. Материалы переходной части.
 
 Преподаватели
-- [Соколов Евгений](https://www.hse.ru/staff/esokolov/)
 - Алексеев Илья (@voorhs)
 - Оганов Александр (@welmud)
+- [Соколов Евгений](https://www.hse.ru/staff/esokolov/)
+
+За основу взяты материалы
+- ММП ВМК МГУ: [отсюда](https://github.com/mmp-efml/mmp-efml-2024-fall), [отсюда](https://github.com/mmp-practicum-team/mmp_practicum_fall_2024), [отсюда](https://github.com/mmp-practicum-team/mmp_practicum_spring_2024), [отсюда](https://github.com/mmp-mmro-team/mmp_mmro_fall_2022)
+- ПМИ ФКН ВШЭ: [отсюда](https://github.com/isadrtdinov/intro-to-dl-hse)
 
 | | | тема | материалы |
 |-|-|------|-----------|
