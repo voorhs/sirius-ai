@@ -15,7 +15,7 @@
 |        | семинар | Основы обучения в PyTorch            | [ноутбук](./day_1/sem_2.ipynb)    |
 |        | домашка | Классификация изображений            | [ноутбук](./day_1/homework.ipynb) |
 | день 2 | | | |
-|        | лекция  | Transfer learning. CV                | [слайды]()                        |
+|        | лекция  | Transfer learning. CV                | [слайды](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/lecture-notes/notes-05-cnn.pdf)                        |
 |        | семинар | Дообучение в PyTorch                 | [ноутбук](./day_2/sem_1.ipynb)    |
 |        | семинар | Предобученные модели из HF Hub       | [ноутбук](./day_2/sem_2.ipynb)    |
 |        | домашка | Анализ предобученных моделей         | [задание](./day_2/homework.md)    |
@@ -24,7 +24,7 @@
 |        | семинар | DL Audio                             | [ноутбук](./day_3/sem_2.ipynb)    |
 |        | семинар | NLP и веб-разработка                 | [word2vec](./day_3/word_embedding.ipynb), [RAG](./day_3/nlp_seminar.ipynb), [основы webdev](./day_3/web-dev/)
 | день 4 | | | |
-|        | лекция  | Диффузионные модели                  | |
+|        | лекция  | Диффузионные модели                  | [слайды](https://github.com/mmp-efml/mmp-efml-2024-fall/blob/main/presentations/lec9_diffusion.pdf), [еще слайды](https://github.com/mmp-efml/mmp-efml-2024-fall/blob/main/presentations/lec11_sd_sds_dmd.pdf) |
 |        | семинар | Веб-разработка (продолжение). Pandas | [основы webdev](./day_3/web-dev/), [pandas](./day_4/sem_pandas.ipynb) |
 |        | семинар | Streamlit. Конкурентность и aiogram  | [слайды](https://github.com/mmp-practicum-team/mmp_practicum_fall_2024/blob/main/Seminars/13-aiogram/slides.pdf), [тг бот](https://github.com/voorhs/example-project/blob/tg-bot/bot.py), [web ui](https://github.com/voorhs/example-project/blob/f0ae9bd7f0e1114fa4111779392f87143c4dbe04/app.py) |
 
