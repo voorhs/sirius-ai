@@ -25,7 +25,7 @@
 |        | семинар | NLP и веб-разработка                 | [word2vec](./day_3/word_embedding.ipynb), [RAG](./day_3/nlp_seminar.ipynb), [основы webdev](./day_3/web-dev/)
 | день 4 | | | |
 |        | лекция  | Диффузионные модели                  | [слайды](https://github.com/mmp-efml/mmp-efml-2024-fall/blob/main/presentations/lec9_diffusion.pdf), [еще слайды](https://github.com/mmp-efml/mmp-efml-2024-fall/blob/main/presentations/lec11_sd_sds_dmd.pdf) |
-|        | семинар | Веб-разработка (продолжение). Pandas | [основы webdev](./day_3/web-dev/), [pandas](./day_4/sem_pandas.ipynb) |
+|        | семинар | Веб-разработка (продолжение). Pandas | [основы webdev](./day_3/web-dev/), [pandas](https://github.com/mmp-mmro-team/mmp_mmro_fall_2022/blob/main/seminars/Seminar1/sem_pandas.ipynb) |
 |        | семинар | Streamlit. Конкурентность и aiogram  | [слайды](https://github.com/mmp-practicum-team/mmp_practicum_fall_2024/blob/main/Seminars/13-aiogram/slides.pdf), [тг бот](https://github.com/voorhs/example-project/blob/tg-bot/bot.py), [web ui](https://github.com/voorhs/example-project/blob/f0ae9bd7f0e1114fa4111779392f87143c4dbe04/app.py) |
 
-Более подробный план смотрите в [plan.md](./plan.md).
+Более подробный план смотрите в [plan.md](./plan.md) (это рабочий текст, не публичный)
