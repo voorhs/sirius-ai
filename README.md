@@ -21,7 +21,7 @@
 |        | домашка | Анализ предобученных моделей         | [задание](./day_2/homework.md)    |
 | день 3 | | | |
 |        | лекция  | NLP. Эмбединги. RNN. Transformer     | [слайды](./day_3/slides.pdf)      |
-|        | семинар | DL Audio                             | [ноутбук](./day_3/sem_2.ipynb)    |
+|        | семинар | DL Audio                             | [ноутбук](./day_3/sem_1.ipynb)    |
 |        | семинар | NLP и веб-разработка                 | [word2vec](./day_3/word_embedding.ipynb), [RAG](./day_3/nlp_seminar.ipynb), [основы webdev](./day_3/web-dev/)
 | день 4 | | | |
 |        | лекция  | Диффузионные модели                  | [слайды](https://github.com/mmp-efml/mmp-efml-2024-fall/blob/main/presentations/lec9_diffusion.pdf), [еще слайды](https://github.com/mmp-efml/mmp-efml-2024-fall/blob/main/presentations/lec11_sd_sds_dmd.pdf) |
