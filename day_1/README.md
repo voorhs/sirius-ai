@@ -6,9 +6,9 @@
 
 ## Вводные задачи для семинара
 
-- iris (классификация)
-- diabetes (регрессия)
-- титаник (EDA)
+- iris (классификация) [тут](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html)
+- diabetes (регрессия) [тут](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html)
+- титаник (EDA) [тут](https://www.kaggle.com/competitions/titanic)
 
 ## Олимпиадные задачи для семинара
 
