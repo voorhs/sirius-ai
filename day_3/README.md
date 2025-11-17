@@ -8,8 +8,8 @@
 
 ## Вводные задачи для семинара
 
-- комментарии википедии (анализ тональности)
-- banking77 (классификация интентов)
+- комментарии википедии (анализ тональности) [отсюда](https://github.com/mmp-practicum-team/mmp_practicum_fall_2024/blob/main/Tasks/Task-02/task_02.pdf)
+- banking77 (классификация интентов) [отсюда](https://huggingface.co/datasets/DeepPavlov/banking77)
 
 ## Олимпиадные задачи для семинара
 
