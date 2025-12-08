@@ -7,3 +7,5 @@ nltk
 jupyter
 notebook
 gdown
+sentence-transformers
+datasets
