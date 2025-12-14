@@ -12,8 +12,8 @@
 |-|-|------|-----------|
 | день 1 | | | [план](./day_1/README.md) |   
 |        | лекция  | Основы машинного обучения. Sklearn      | ... |
-|        | семинар | Классификация и регрессия               | [iris](./day_1/iris_classification.ipynb), [diabetes](./day_1/diabetes_regression.ipynb), [titanic](./day_1/titanic_eda.ipynb), [вакансии](./day_1/vacancy.ipynb) |
-|        | семинар | Разбор олимпиадных заданий              | ... |
+|        | семинар | Классификация и регрессия               | [iris](./day_1/iris_classification.ipynb), [diabetes](./day_1/diabetes_regression.ipynb), [titanic](./day_1/titanic_eda.ipynb) |
+|        | семинар | Разбор олимпиадных заданий              | [вакансии](./day_1/vacancy.ipynb) |
 | день 2 | | | [план](./day_2/README.md) |
 |        | лекция  | Основы компьютерного зрения. Pytorch    | ... |
 |        | семинар | Классификация изображений               | ... |
