@@ -9,3 +9,8 @@ notebook
 gdown
 sentence-transformers
 datasets
+torch
+gensim
+openai
+python-dotenv
+aiometer
