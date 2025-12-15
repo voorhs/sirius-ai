@@ -13,5 +13,5 @@
 
 ## Олимпиадные задачи для семинара
 
-- "Путь к дзену" [отсюда](https://disk.yandex.ru/i/LhqEcgP1xXvYEw) (парная классификация)
-- Классификация новостей [отсюда](https://github.com/jaredliw/ioai-tsp-2025/blob/main/noai-china-2024/news-text-classification/news-text-classification-BERT.ipynb)
+- [Классификация новостей](./news.ipynb)
+- [Путь к дзену](./dzen.ipynb)
