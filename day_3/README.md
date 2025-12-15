@@ -8,7 +8,7 @@
 
 ## Вводные задачи для семинара
 
-- [wiki комментарии](./sentiment_analysis.ipynb)
+- [wiki комментарии](./toxicity_detection.ipynb)
 - [banking77](./intent_classification.ipynb)
 
 ## Олимпиадные задачи для семинара

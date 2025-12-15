@@ -20,7 +20,7 @@
 |        | семинар | Разбор олимпиадных заданий              | ... |
 | день 3 | |                                                 | [план](./day_3/README.md) |
 |        | лекция  | Основы NLP. Sentence-transformers       | ... |
-|        | семинар | Классификация текстов                   | [wiki](./day_3/sentiment_analysis.ipynb), [banking77](./day_3/intent_classification.ipynb) |
+|        | семинар | Классификация текстов                   | [wiki](./day_3/toxicity_detection.ipynb), [banking77](./day_3/intent_classification.ipynb) |
 |        | семинар | Разбор олимпиадных заданий              | ... |
 
 [Материалы 2024 года](./2024/)
